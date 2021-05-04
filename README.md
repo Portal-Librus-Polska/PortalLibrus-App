@@ -10,6 +10,8 @@ Narazie nie mam nikogo to pomocy więc zrobiłem błąd 404 ponieważ trzeba po�
 Na pierwszy raz będzie dla systemów Windows ale po większym, dłuższym testowaniu będzie wersja dla MacOs.
 ### Chętny ?
 Jeżeli jesteś chętny do pomocy mi możesz się ze mną skontaktować.
-<h1 align="center"></h1>
+<h1 align=></h1>
 Gmail: chentnickimilosz@gmail.com
+[Discord](https://discord.gg/MznJvvcVCp)
+
 
