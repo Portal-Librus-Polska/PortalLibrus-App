@@ -12,6 +12,7 @@ Na pierwszy raz będzie dla systemów Windows ale po większym, dłuższym testo
 Jeżeli jesteś chętny do pomocy mi możesz się ze mną skontaktować.
 <h1 align=></h1>
 Gmail: chentnickimilosz@gmail.com
+
 [Discord](https://discord.gg/MznJvvcVCp)
 
 
