@@ -11,4 +11,5 @@ Na pierwszy raz będzie dla systemów Windows ale po większym, dłuższym testo
 ### Chętny ?
 Jeżeli jesteś chętny do pomocy mi możesz się ze mną skontaktować.
 <h1 align="center"></h1>
-mi
+Gmail: chentnickimilosz@gmail.com
+
